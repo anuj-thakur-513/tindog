@@ -63,12 +63,16 @@ p {
 /* Title Image */
 .title-image {
     width: 60%;
-    transform: rotate(25deg);
+    transform: rotate(20deg);
+    margin-bottom: -14rem;
 }
 
 /* Features Section */
 #features {
-    padding: 7% 11%;
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #fff;
+    position: relative;
 }
 
 .feature-box {
