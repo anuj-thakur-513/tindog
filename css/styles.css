@@ -67,6 +67,17 @@ p {
     margin-bottom: -14rem;
 }
 
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        transform: rotate(0deg);
+        margin-bottom: 0px;
+    }
+}
+
 /* Features Section */
 #features {
     padding: 7% 15%;
